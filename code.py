@@ -1,2 +1,2 @@
 print("Hello world!!")
-// Need more function
+print("End!")
